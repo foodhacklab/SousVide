@@ -24,4 +24,4 @@ This version includes:
   - Mixer Helix_V1.0
 - Some welding and wiring is needed.
   
-*NOTE that every component was chosen and designed according to our needs at the moment. The 3D files are uploaded for anyone who can make changes and adapt them to their own needs. 
+*NOTE that every component was chosen and designed according to our needs at the moment (some of the parts designs have been modelled and not precisely designed for that matter). The 3D files are uploaded for anyone who can make changes and adapt them to their own needs. 
