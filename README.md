@@ -22,3 +22,6 @@ This version includes:
   - UI_Shell_V1.0
   - Main_Shell_V1.0
   - Mixer Helix_V1.0
+- Some welding and wiring is needed.
+  
+*NOTE that every component was chosen and designed according to our needs at the moment. The 3D files are uploaded for anyone who can make changes and adapt them to their own needs. 
