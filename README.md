@@ -8,7 +8,7 @@ This version was intended to be the first 3D printed one, once the functional as
 
 This version includes:
 
-- 1 PID Controller.
+- 1 PID Controller + Temperature Sensor.
 - 1 Solid State Relay.
 - 1 Power Switch.
 - 1 Power Supply Plug. 
