@@ -26,6 +26,3 @@ This version includes:
   
 *NOTE that every component was chosen and designed according to our needs at the moment (some of the parts designs have been modelled and not precisely designed for that matter). The 3D files are uploaded for anyone who can make changes and adapt them to their own needs or available parts. 
 
-This very first version was made along with the Hirikilabs (Open Citizen Laboratory) team in Tabakalera (International Contemporary Art Centre) in Donostia - San Sebastian (Spain) in early 2016. You can find more info in: http://hirikilabsproiektuak.tabakalera.eu/98/ 
-
-![](DSCF3883.JPG) 
