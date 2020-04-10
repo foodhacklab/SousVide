@@ -26,3 +26,4 @@ This version includes:
   
 *NOTE that every component was chosen and designed according to our needs at the moment (some of the parts designs have been modelled and not precisely designed for that matter). The 3D files are uploaded for anyone who can make changes and adapt them to their own needs or available parts. 
 
+![](Hiriki_TIC_V_1.0.JPG)
