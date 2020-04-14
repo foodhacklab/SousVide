@@ -23,3 +23,5 @@ This version includes:
   - Rejilla_V3.0 (this one is recommended to be printed in PTEG)
 - Some welding and wiring is needed.
 - Inserts and screws. 
+
+![](TIC_V3.0.jpg)
