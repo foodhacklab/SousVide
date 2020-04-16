@@ -25,3 +25,5 @@ This version includes:
 - Inserts and screws. 
 
 ![](TIC_V3.0.jpg)
+
+![](IMAGES/IMG-20200415-WA0001.jpg)
